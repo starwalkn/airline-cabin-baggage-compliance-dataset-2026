@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Ryanair",
+    "personalItem": "40 x 20 x 25 cm",
+    "carryOn": "55 x 40 x 20 cm",
+    "maxWeight": "10 kg",
+    "gateFee": "€70.00",
+    "strictness": "Extreme"
+  },
+  {
+    "name": "easyJet",
+    "personalItem": "45 x 36 x 20 cm",
+    "carryOn": "56 x 45 x 25 cm",
+    "maxWeight": "15 kg",
+    "gateFee": "£48.00",
+    "strictness": "High"
+  },
+  {
+    "name": "Scoot",
+    "personalItem": "40 x 30 x 10 cm",
+    "carryOn": "54 x 38 x 23 cm",
+    "maxWeight": "10 kg (Combined)",
+    "gateFee": "$50.00",
+    "strictness": "High"
+  },
+  {
+    "name": "AirAsia",
+    "personalItem": "40 x 30 x 10 cm",
+    "carryOn": "56 x 36 x 23 cm",
+    "maxWeight": "7 kg (Combined)",
+    "gateFee": "RM 200",
+    "strictness": "Extreme"
+  },
+  {
+    "name": "Delta Air Lines",
+    "personalItem": "Fit under seat",
+    "carryOn": "56 x 35 x 23 cm",
+    "maxWeight": "No weight limit",
+    "gateFee": "$0 (Free gate check)",
+    "strictness": "Moderate"
+  },
+  {
+    "name": "United Airlines",
+    "personalItem": "43 x 25 x 22 cm",
+    "carryOn": "56 x 35 x 22 cm",
+    "maxWeight": "No weight limit",
+    "gateFee": "$25.00 + bag fee",
+    "strictness": "Moderate"
+  },
+  {
+    "name": "American Airlines",
+    "personalItem": "45 x 35 x 20 cm",
+    "carryOn": "56 x 36 x 23 cm",
+    "maxWeight": "No weight limit",
+    "gateFee": "$0 (Free gate check)",
+    "strictness": "Moderate"
+  },
+  {
+    "name": "Southwest Airlines",
+    "personalItem": "41 x 34 x 20 cm",
+    "carryOn": "61 x 41 x 28 cm",
+    "maxWeight": "No limit",
+    "gateFee": "None (2 Free Bags)",
+    "strictness": "Low"
+  },
+  {
+    "name": "Emirates",
+    "personalItem": "Briefcase/Handbag",
+    "carryOn": "55 x 38 x 20 cm",
+    "maxWeight": "7 kg",
+    "gateFee": "Varies",
+    "strictness": "Moderate"
+  },
+  {
+    "name": "Singapore Airlines",
+    "personalItem": "40 x 30 x 10 cm",
+    "carryOn": "55 x 40 x 20 cm",
+    "maxWeight": "7 kg",
+    "gateFee": "Varies",
+    "strictness": "Moderate"
+  },
+  {
+    "name": "EVA Air (長榮航空)",
+    "personalItem": "40 x 30 x 10 cm",
+    "carryOn": "56 x 36 x 23 cm",
+    "maxWeight": "7 kg",
+    "gateFee": "Varies",
+    "strictness": "Moderate"
+  },
+  {
+    "name": "China Airlines (中華航空)",
+    "personalItem": "40 x 30 x 10 cm",
+    "carryOn": "56 x 36 x 23 cm",
+    "maxWeight": "7 kg",
+    "gateFee": "Varies",
+    "strictness": "Moderate"
+  },
+  {
+    "name": "ANA (全日空)",
+    "personalItem": "Small personal bag",
+    "carryOn": "55 x 40 x 25 cm",
+    "maxWeight": "10 kg",
+    "gateFee": "Varies",
+    "strictness": "Moderate"
+  },
+  {
+    "name": "Japan Airlines (JAL)",
+    "personalItem": "Small bag",
+    "carryOn": "55 x 40 x 25 cm",
+    "maxWeight": "10 kg",
+    "gateFee": "Varies",
+    "strictness": "Moderate"
+  },
+  {
+    "name": "Peach Aviation",
+    "personalItem": "Combined",
+    "carryOn": "50 x 40 x 25 cm",
+    "maxWeight": "7 kg (Combined)",
+    "gateFee": "¥3,800",
+    "strictness": "High"
+  }
+]
